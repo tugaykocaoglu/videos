@@ -1,3 +1,3 @@
-# React Video App with Youtube API
+# Getting Started with Create React App
 
 React video application with Youtube API.
